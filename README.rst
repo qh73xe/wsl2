@@ -3,10 +3,40 @@ WSL のための諸設定およびドキュメント
 ===========================================
 
 入力文字変換
+
 wsl2 の導入
+===========================================
+
+https://qiita.com/rubytomato@github/items/a290ecef2ea86ea8350f
+
 windows terminal
+===========================================
+
+power shell
+https://blog.mamansoft.net/2020/05/31/windows-terminal-and-power-shell-makes-beautiful/
+
+管理者モード
+https://stackoverflow.com/questions/62496779/opening-up-windows-terminal-with-elevated-privileges-from-within-windows-termin
+
+色テーマ
+https://qiita.com/flat35hd99/items/06d766253eeebdbaca70
+
+その他
+https://qiita.com/hikaruright/items/b415d569b5bbeaf967bd
+
 power sehll
+===========================================
+
 scoop
+===========================================
+
+YUBIKEY
+===========================================
+
+https://www.yubion.com/post/ssh%E3%81%AE%E7%A7%98%E5%AF%86%E9%8D%B5%E3%82%92yubikey%E3%81%A7%E7%AE%A1%E7%90%86-windows%E7%B7%A8
+
+GITHUB CLI
+===========================================
 
 OPEN を何とかする
 ===========================================
@@ -60,6 +90,11 @@ PATH を通しておきます.
 
 GIT を何とかする
 ===========================================
+
+https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
+
+ssh
+https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
 
 GIT の基本設定は以下の通りです.
 
